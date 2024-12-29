@@ -24,8 +24,3 @@
 
 Aqui você vai encontrar meus projetos, experimentos e até uns "códigos aleatórios que funcionaram na sorte". 😄 Fique à vontade para explorar, colaborar e compartilhar feedback. O objetivo aqui é aprender e crescer juntos. 🚀
 
----
-
-### ⚡ **Fun Fact**  
-Sou como aquele protagonista de anime que nunca desiste, mesmo diante de desafios épicos. ✨
-
