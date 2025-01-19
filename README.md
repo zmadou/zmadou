@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim:
 - 🔭 Atualmente mergulhado no universo do **desenvolvimento Full Stack** com foco em **Front-end**, pois também sou formado em Design Gráfico.
-- 🌱 Explorando as maravilhas do **Vue.js** (às vezes quebrando a cabeça, mas faz parte! 😅).
+- 🌱 Explorando as maravilhas do **REACT** (às vezes quebrando a cabeça, mas faz parte! 😅).
 - 👯 Procurando alguém que possa me ajudar a entender **LUA** e, quem sabe, desenvolver projetos juntos para **Roblox**. Bora? 🚀
 - 💬 Adoro falar sobre **animes** e **games retrô** – sério, me pergunte sobre isso.
 - 📫 Me encontre em **[contato@k-onbrasil.com](mailto:contato@k-onbrasil.com)** (não sou uma IA, mas respondo rapidinho 👀).
