@@ -6,7 +6,7 @@
 - 👯 Procurando alguém que possa me ajudar a entender **LUA** e, quem sabe, desenvolver projetos juntos para **Roblox**. Bora? 🚀
 - 💬 Adoro falar sobre **animes** e **games retrô** – sério, me pergunte sobre isso.
 - 📫 Me encontre em **[contato@k-onbrasil.com](mailto:contato@k-onbrasil.com)** (não sou uma IA, mas respondo rapidinho 👀).
-- ⚡ **Curiosidade aleatória:** Sou **PCD** e tenho uma condição rara chamada **osteogênese imperfeita**. 
+- ⚡ **Curiosidade aleatória:** Sou **PCD** e tenho uma condição rara chamada **osteogênese imperfeita**.
 
 ---
 
