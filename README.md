@@ -3,7 +3,7 @@
 ## Um pouco sobre mim:
 - 🔭 Atualmente mergulhado no universo do **desenvolvimento Full Stack** com foco em **Front-end**, pois também sou formado em Design Gráfico.
 - 🌱 Explorando as maravilhas do **REACT**.
-- 👯 Procurando alguém que possa me ajudar a entender **LUA** e, quem sabe, desenvolver projetinho **Roblox**. Bora? 🚀
+- 👯 Desenvolver projetinho **Roblox**. Bora? 🚀
 - 📫 Me encontre em **[contato@k-onbrasil.com](mailto:contato@k-onbrasil.com)**.
 - ⚡ **Curiosidade aleatória:** Sou **PCD** e tenho uma condição rara chamada **osteogênese imperfeita**.
 
