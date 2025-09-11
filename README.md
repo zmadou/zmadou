@@ -13,6 +13,14 @@
 
 ![zmadou's Stats](https://github-readme-stats.vercel.app/api?username=zmadou&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
+## 💻 **GitHub Streak**
+
+![zmadou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmadou&theme=nightowl&hide_border=false)
+
+## 💻 **GitHub Languages**
+
+![zmadou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zmadou&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
 ---
 
 ## Vamos trocar ideias?
