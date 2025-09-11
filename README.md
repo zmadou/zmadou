@@ -11,11 +11,8 @@
 
 ## 💻 **GitHub Stats**
 
-![zMadou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zmadou&show_icons=true&theme=dark)
+![zmadou's Stats](https://github-readme-stats.vercel.app/api?username=zmadou&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🛠️ **Linguagens Mais Usadas**
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zmadou&layout=compact&theme=dark)
 
 ---
 
