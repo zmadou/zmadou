@@ -11,7 +11,7 @@
 
 ## 💻 **GitHub Stats**
 
-![zmadou's Stats](https://github-readme-stats.vercel.app/api?username=zmadou&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![zmadou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmadou&theme=nightowl&hide_border=false)
 
 
 ---
